@@ -1,6 +1,6 @@
 ### Hi there 👋, Saima tabassum
 #### MERN Stack Developer(Front-End)
-![MERN Stack Developer(Front-End)]()
+![MERN Stack Developer(Front-End)](https://www.canva.com/design/DAG55lBj0jQ/MO5nrCgJ0mCukh5WGPHIww/edit?utm_content=DAG55lBj0jQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 MERN Stack Frontend Developer specializing in React.js, Next.js, and Tailwind CSS, building dynamic, responsive, and user-friendly web applications. Experienced in API integration, state management, and clean UI design, with a focus on performance and scalability.
 
