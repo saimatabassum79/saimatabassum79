@@ -1,6 +1,6 @@
 ### Hi there 👋, Saima tabassum
 #### MERN Stack Developer(Front-End)
-![MERN Stack Developer(Front-End)](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![MERN Stack Developer(Front-End)]()
 
 MERN Stack Frontend Developer specializing in React.js, Next.js, and Tailwind CSS, building dynamic, responsive, and user-friendly web applications. Experienced in API integration, state management, and clean UI design, with a focus on performance and scalability.
 
